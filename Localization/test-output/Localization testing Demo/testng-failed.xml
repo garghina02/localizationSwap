@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="10" name="Failed suite [Localization testing Demo]" parallel="tests">
+  <listeners>
+    <listener class-name="atu.testng.reports.listeners.ATUReportsListener"/>
+    <listener class-name="atu.testng.reports.listeners.ConfigurationListener"/>
+    <listener class-name="atu.testng.reports.listeners.MethodListener"/>
+  </listeners>
+  <test name="Test Blogs Functionality(failed)" parallel="tests">
+    <classes>
+      <class name="com.adp.localization.test.TestLocalization">
+        <methods>
+          <include name="testBlogs" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.adp.localization.test.TestLocalization -->
+    </classes>
+  </test> <!-- Test Blogs Functionality(failed) -->
+  <test name="Test Subscribe Functionality(failed)" parallel="tests">
+    <classes>
+      <class name="com.adp.localization.test.TestLocalization">
+        <methods>
+          <include name="testBlogs" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.adp.localization.test.TestLocalization -->
+    </classes>
+  </test> <!-- Test Subscribe Functionality(failed) -->
+</suite> <!-- Failed suite [Localization testing Demo] -->

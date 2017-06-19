@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><suite name="Localization testing Demo" verbose="1">
+<listeners>
+		<listener class-name="atu.testng.reports.listeners.ATUReportsListener"/>
+		<listener class-name="atu.testng.reports.listeners.ConfigurationListener"/>
+		<listener class-name="atu.testng.reports.listeners.MethodListener"/>
+		<listener class-name="com.adp.main.config.CustomReporter"/>
+	</listeners>
+   <test name="Test Subscribe Functionality" preserve-order="true">
+    <classes>
+      <class name="com.adp.localization.test.TestLocalization">
+        <methods>
+          <exclude name="testSubscribe"/>
+          <include name="testBlogs"/>
+            </methods>
+         </class>
+    </classes>
+    </test>
+    
+</suite>

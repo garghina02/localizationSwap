@@ -1,0 +1,268 @@
+2017/01/31 18:28:29.317 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:28:29.649 [ INFO] TestNG (TestLocalization.java) - Subscribers Name Entered:-test Subscriber
+2017/01/31 18:28:30.267 [ INFO] TestNG (TestLocalization.java) - Subscribers Email Entered:-semail
+2017/01/31 18:28:30.267 [ INFO] TestNG (TestLocalization.java) - ******Test Subscribe Test Case passed*****
+2017/01/31 18:28:31.308 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:28:31.308 [ INFO] TestNG (TestLocalization.java) - Selected language page loaded successfully
+2017/01/31 18:28:31.613 [ INFO] TestNG (TestLocalization.java) - Clicked on Blog link
+2017/01/31 18:28:31.613 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:28:34.791 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:28:36.580 [ INFO] TestNG (TestLocalization.java) - Clicked on Announcement image
+2017/01/31 18:28:36.580 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:28:38.613 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:28:38.703 [ INFO] TestNG (TestLocalization.java) - Clicked on WPML link
+2017/01/31 18:28:39.940 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:28:41.965 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:28:41.965 [ INFO] TestNG (TestLocalization.java) - ******Test Blogs Test Case passed*****
+2017/01/31 18:28:41.975 [ INFO] TestNG (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\Locators\Spanish\Spanish.properties
+2017/01/31 18:28:41.975 [ INFO] TestNG (Config.java) - Locators loaded successfully for Spanish language
+2017/01/31 18:28:41.975 [ INFO] TestNG (TestLocalization.java) - Language set for testing is :-Spanish
+2017/01/31 18:28:43.447 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:28:45.485 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:28:45.485 [ INFO] TestNG (TestLocalization.java) - Page loaded successfully
+2017/01/31 18:28:45.536 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:28:49.572 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:28:49.572 [ INFO] TestNG (TestLocalization.java) - Selected language page loaded successfully
+2017/01/31 18:28:50.880 [ INFO] main (Config.java) - Execution completed
+2017/01/31 18:28:52.248 [ INFO] main (Config.java) - Driver closed successfully
+2017/01/31 18:31:10.646 [ INFO] main (Config.java) - logger configuration successful.
+2017/01/31 18:31:10.656 [ INFO] main (StartTest.java) - Starting Script Execution.
+2017/01/31 18:31:10.656 [ INFO] main (StartTest.java) - Getting Test cases set for execution
+2017/01/31 18:31:10.656 [ INFO] main (Config.java) - Setting report properties
+2017/01/31 18:31:10.656 [ INFO] main (Config.java) - Report Properties set..
+2017/01/31 18:31:10.656 [ INFO] main (GetData.java) - Reading Excel file C:\ProjectWorkspace\Localization\config\SetTestCases.xlsx With Sheet Name TestCases
+2017/01/31 18:31:11.382 [ INFO] main (GetData.java) - No of rows with 'Yes' Option=2
+2017/01/31 18:31:11.382 [ INFO] main (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\config\Test_Configuration.properties
+2017/01/31 18:31:11.442 [ INFO] main (Config.java) - Execution XML file updated successfully...
+2017/01/31 18:31:11.482 [ INFO] main (StartTest.java) - Parallel execution mode is set
+2017/01/31 18:31:14.535 [ INFO] main (Config.java) - Driver initialization successful
+2017/01/31 18:31:16.320 [ INFO] main (Config.java) - Driver initialization successful
+2017/01/31 18:31:16.701 [ INFO] TestNG (GetData.java) - Reading Excel file C:\ProjectWorkspace\Localization\config\TestData.xlsx With Sheet Name testSubscribe
+2017/01/31 18:31:16.701 [ INFO] TestNG (GetData.java) - Reading Excel file C:\ProjectWorkspace\Localization\config\TestData.xlsx With Sheet Name testBlogs
+2017/01/31 18:31:16.741 [ INFO] TestNG (GetData.java) - No of rows with 'Yes' Option=3
+2017/01/31 18:31:16.751 [ INFO] TestNG (GetData.java) - No of rows with 'Yes' Option=2
+2017/01/31 18:31:16.791 [ INFO] TestNG (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\Locators\Japanese\Japanese.properties
+2017/01/31 18:31:16.791 [ INFO] TestNG (Config.java) - Locators loaded successfully for japanese language
+2017/01/31 18:31:16.791 [ INFO] TestNG (TestLocalization.java) - Language set for testing is :-japanese
+2017/01/31 18:31:17.274 [ INFO] TestNG (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\Locators\Chinese\Chinese.properties
+2017/01/31 18:31:17.274 [ INFO] TestNG (Config.java) - Locators loaded successfully for Chinese language
+2017/01/31 18:31:17.274 [ INFO] TestNG (TestLocalization.java) - Test Subscribe execution started
+2017/01/31 18:31:17.275 [ INFO] TestNG (TestLocalization.java) - Language set for testing is :-Chinese
+2017/01/31 18:31:28.502 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:31:29.648 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:31:30.536 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:31:30.536 [ INFO] TestNG (TestLocalization.java) - Page loaded successfully
+2017/01/31 18:31:30.624 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:31:31.681 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:31:31.681 [ INFO] TestNG (TestLocalization.java) - Page loaded successfully
+2017/01/31 18:31:33.525 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:31:34.216 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:31:34.216 [ INFO] TestNG (TestLocalization.java) - Selected language page loaded successfully
+2017/01/31 18:31:34.564 [ INFO] TestNG (TestLocalization.java) - Clicked on Blog link
+2017/01/31 18:31:34.565 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:31:35.544 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:31:35.545 [ INFO] TestNG (TestLocalization.java) - Selected language page loaded successfully
+2017/01/31 18:31:37.535 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:31:38.457 [ INFO] TestNG (TestLocalization.java) - Clicked on Contact us menu
+2017/01/31 18:31:38.457 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:31:39.878 [ INFO] TestNG (TestLocalization.java) - Clicked on Announcement image
+2017/01/31 18:31:39.879 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:31:41.900 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:31:41.910 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:31:42.031 [ INFO] TestNG (TestLocalization.java) - Clicked on WPML link
+2017/01/31 18:31:42.361 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:31:42.414 [ INFO] TestNG (TestLocalization.java) - Subscribers Name Entered:-test Subscriber
+2017/01/31 18:31:43.016 [ INFO] TestNG (TestLocalization.java) - Subscribers Email Entered:-femail
+2017/01/31 18:31:43.016 [ INFO] TestNG (TestLocalization.java) - ******Test Subscribe Test Case passed*****
+2017/01/31 18:31:43.278 [ INFO] TestNG (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\Locators\Japanese\Japanese.properties
+2017/01/31 18:31:43.279 [ INFO] TestNG (Config.java) - Locators loaded successfully for japanese language
+2017/01/31 18:31:43.279 [ INFO] TestNG (TestLocalization.java) - Test Subscribe execution started
+2017/01/31 18:31:43.279 [ INFO] TestNG (TestLocalization.java) - Language set for testing is :-japanese
+2017/01/31 18:31:45.439 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:31:45.439 [ INFO] TestNG (TestLocalization.java) - ******Test Blogs Test Case passed*****
+2017/01/31 18:31:45.457 [ INFO] TestNG (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\Locators\Chinese\Chinese.properties
+2017/01/31 18:31:45.457 [ INFO] TestNG (Config.java) - Locators loaded successfully for Chinese language
+2017/01/31 18:31:45.458 [ INFO] TestNG (TestLocalization.java) - Language set for testing is :-Chinese
+2017/01/31 18:31:46.050 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:31:48.059 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:31:48.059 [ INFO] TestNG (TestLocalization.java) - Page loaded successfully
+2017/01/31 18:31:48.141 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:31:48.329 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:31:50.357 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:31:50.357 [ INFO] TestNG (TestLocalization.java) - Page loaded successfully
+2017/01/31 18:31:50.449 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:31:51.486 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:31:51.486 [ INFO] TestNG (TestLocalization.java) - Selected language page loaded successfully
+2017/01/31 18:31:53.612 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:31:53.613 [ INFO] TestNG (TestLocalization.java) - Selected language page loaded successfully
+2017/01/31 18:31:53.840 [ INFO] TestNG (TestLocalization.java) - Clicked on Contact us menu
+2017/01/31 18:31:53.841 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:31:54.013 [ INFO] TestNG (TestLocalization.java) - Clicked on Blog link
+2017/01/31 18:31:54.013 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:31:55.866 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:31:56.575 [ INFO] TestNG (TestLocalization.java) - Subscribers Name Entered:-test Subscriber
+2017/01/31 18:31:57.156 [ INFO] TestNG (TestLocalization.java) - Subscribers Email Entered:-semail
+2017/01/31 18:31:57.156 [ INFO] TestNG (TestLocalization.java) - ******Test Subscribe Test Case passed*****
+2017/01/31 18:31:58.276 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:32:00.010 [ INFO] TestNG (TestLocalization.java) - Clicked on Announcement image
+2017/01/31 18:32:00.010 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:32:02.043 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:32:02.173 [ INFO] TestNG (TestLocalization.java) - Clicked on WPML link
+2017/01/31 18:32:03.323 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:32:05.350 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:32:05.350 [ INFO] TestNG (TestLocalization.java) - ******Test Blogs Test Case passed*****
+2017/01/31 18:32:05.370 [ INFO] TestNG (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\Locators\Spanish\Spanish.properties
+2017/01/31 18:32:05.370 [ INFO] TestNG (Config.java) - Locators loaded successfully for Spanish language
+2017/01/31 18:32:05.370 [ INFO] TestNG (TestLocalization.java) - Language set for testing is :-Spanish
+2017/01/31 18:32:06.755 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:32:08.787 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:32:08.787 [ INFO] TestNG (TestLocalization.java) - Page loaded successfully
+2017/01/31 18:32:08.869 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/01/31 18:32:12.609 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/01/31 18:32:12.609 [ INFO] TestNG (TestLocalization.java) - Selected language page loaded successfully
+2017/01/31 18:32:13.890 [ INFO] main (Config.java) - Execution completed
+2017/01/31 18:32:15.329 [ INFO] main (Config.java) - Driver closed successfully
+2017/02/01 12:33:46.003 [ INFO] main (Config.java) - logger configuration successful.
+2017/02/01 12:33:46.006 [ INFO] main (StartTest.java) - Starting Script Execution.
+2017/02/01 12:33:46.006 [ INFO] main (StartTest.java) - Getting Test cases set for execution
+2017/02/01 12:33:46.006 [ INFO] main (Config.java) - Setting report properties
+2017/02/01 12:33:46.006 [ INFO] main (Config.java) - Report Properties set..
+2017/02/01 12:33:46.008 [ INFO] main (GetData.java) - Reading Excel file C:\ProjectWorkspace\Localization\config\SetTestCases.xlsx With Sheet Name TestCases
+2017/02/01 12:33:46.836 [ INFO] main (GetData.java) - No of rows with 'Yes' Option=1
+2017/02/01 12:33:46.837 [ INFO] main (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\config\Test_Configuration.properties
+2017/02/01 12:33:46.905 [ INFO] main (Config.java) - Execution XML file updated successfully...
+2017/02/01 12:33:46.953 [ INFO] main (StartTest.java) - Sequential execution mode is set
+2017/02/01 12:33:49.433 [ INFO] main (Config.java) - Driver initialization successful
+2017/02/01 12:33:49.668 [ INFO] main (GetData.java) - Reading Excel file C:\ProjectWorkspace\Localization\config\TestData.xlsx With Sheet Name testBlogs
+2017/02/01 12:33:49.699 [ INFO] main (GetData.java) - No of rows with 'Yes' Option=1
+2017/02/01 12:33:49.736 [ INFO] main (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\Locators\Japanese\Japanese.properties
+2017/02/01 12:33:49.738 [ INFO] main (Config.java) - Locators loaded successfully for japanese language
+2017/02/01 12:33:49.739 [ INFO] main (TestLocalization.java) - Language set for testing is :-japanese
+2017/02/01 12:33:51.854 [ INFO] main (SeleniumUtils.java) - Waiting for page to load
+2017/02/01 12:33:53.877 [ INFO] main (SeleniumUtils.java) - Page loaded successfully
+2017/02/01 12:33:53.878 [ INFO] main (TestLocalization.java) - Page loaded successfully
+2017/02/01 12:33:54.977 [ INFO] main (Config.java) - Execution completed
+2017/02/01 12:33:56.210 [ INFO] main (Config.java) - Driver closed successfully
+2017/02/01 14:32:14.966 [ INFO] main (Config.java) - logger configuration successful.
+2017/02/01 14:32:14.969 [ INFO] main (StartTest.java) - Starting Script Execution.
+2017/02/01 14:32:14.969 [ INFO] main (StartTest.java) - Getting Test cases set for execution
+2017/02/01 14:32:14.969 [ INFO] main (Config.java) - Setting report properties
+2017/02/01 14:32:14.970 [ INFO] main (Config.java) - Report Properties set..
+2017/02/01 14:32:14.971 [ INFO] main (GetData.java) - Reading Excel file C:\ProjectWorkspace\Localization\config\SetTestCases.xlsx With Sheet Name TestCases
+2017/02/01 14:32:15.760 [ INFO] main (GetData.java) - No of rows with 'Yes' Option=1
+2017/02/01 14:32:15.760 [ INFO] main (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\config\Test_Configuration.properties
+2017/02/01 14:32:15.827 [ INFO] main (Config.java) - Execution XML file updated successfully...
+2017/02/01 14:32:15.871 [ INFO] main (StartTest.java) - Sequential execution mode is set
+2017/02/01 14:32:18.438 [ INFO] main (Config.java) - Driver initialization successful
+2017/02/01 14:32:18.699 [ INFO] main (GetData.java) - Reading Excel file C:\ProjectWorkspace\Localization\config\TestData.xlsx With Sheet Name testBlogs
+2017/02/01 14:32:18.730 [ INFO] main (GetData.java) - No of rows with 'Yes' Option=1
+2017/02/01 14:32:18.766 [ INFO] main (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\Locators\Japanese\Japanese.properties
+2017/02/01 14:32:18.767 [ INFO] main (Config.java) - Locators loaded successfully for japanese language
+2017/02/01 14:32:18.768 [ INFO] main (TestLocalization.java) - Language set for testing is :-japanese
+2017/02/01 14:32:46.882 [ INFO] main (SeleniumUtils.java) - Waiting for page to load
+2017/02/01 14:32:48.904 [ INFO] main (SeleniumUtils.java) - Page loaded successfully
+2017/02/01 14:32:48.904 [ INFO] main (TestLocalization.java) - Page loaded successfully
+2017/02/01 14:32:49.046 [ INFO] main (SeleniumUtils.java) - Waiting for page to load
+2017/02/01 14:33:07.790 [ INFO] main (SeleniumUtils.java) - Page loaded successfully
+2017/02/01 14:33:07.790 [ INFO] main (TestLocalization.java) - Selected language page loaded successfully
+2017/02/01 14:33:08.241 [ INFO] main (TestLocalization.java) - Clicked on Blog link
+2017/02/01 14:33:08.242 [ INFO] main (SeleniumUtils.java) - Waiting for page to load
+2017/02/01 14:33:16.888 [ INFO] main (SeleniumUtils.java) - Page loaded successfully
+2017/02/01 14:33:22.983 [ INFO] main (TestLocalization.java) - Clicked on Announcement image
+2017/02/01 14:33:22.984 [ INFO] main (SeleniumUtils.java) - Waiting for page to load
+2017/02/01 14:33:24.998 [ INFO] main (SeleniumUtils.java) - Page loaded successfully
+2017/02/01 14:33:25.094 [ INFO] main (TestLocalization.java) - Clicked on WPML link
+2017/02/01 14:33:26.933 [ INFO] main (SeleniumUtils.java) - Waiting for page to load
+2017/02/01 14:33:28.938 [ INFO] main (SeleniumUtils.java) - Page loaded successfully
+2017/02/01 14:33:28.939 [ INFO] main (TestLocalization.java) - ******Test Blogs Test Case passed*****
+2017/02/01 14:33:29.957 [ INFO] main (Config.java) - Execution completed
+2017/02/01 14:33:31.200 [ INFO] main (Config.java) - Driver closed successfully
+2017/02/01 14:55:26.712 [ INFO] main (Config.java) - logger configuration successful.
+2017/02/01 14:55:26.715 [ INFO] main (StartTest.java) - Starting Script Execution.
+2017/02/01 14:55:26.716 [ INFO] main (StartTest.java) - Getting Test cases set for execution
+2017/02/01 14:55:26.716 [ INFO] main (Config.java) - Setting report properties
+2017/02/01 14:55:26.716 [ INFO] main (Config.java) - Report Properties set..
+2017/02/01 14:55:26.719 [ INFO] main (GetData.java) - Reading Excel file C:\ProjectWorkspace\Localization\config\SetTestCases.xlsx With Sheet Name TestCases
+2017/02/01 14:55:27.398 [ INFO] main (GetData.java) - No of rows with 'Yes' Option=1
+2017/02/01 14:55:27.399 [ INFO] main (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\config\Test_Configuration.properties
+2017/02/01 14:55:27.451 [ INFO] main (Config.java) - Execution XML file updated successfully...
+2017/02/01 14:55:27.489 [ INFO] main (StartTest.java) - Sequential execution mode is set
+2017/02/01 14:55:29.638 [ INFO] main (Config.java) - Driver initialization successful
+2017/02/01 14:55:29.926 [ INFO] main (GetData.java) - Reading Excel file C:\ProjectWorkspace\Localization\config\TestData.xlsx With Sheet Name testBlogs
+2017/02/01 14:55:29.959 [ INFO] main (GetData.java) - No of rows with 'Yes' Option=1
+2017/02/01 14:55:29.988 [ INFO] main (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\Locators\Japanese\Japanese.properties
+2017/02/01 14:55:29.989 [ INFO] main (Config.java) - Locators loaded successfully for japanese language
+2017/02/01 14:55:29.989 [ INFO] main (TestLocalization.java) - Language set for testing is :-japanese
+2017/02/01 14:55:42.141 [ INFO] main (SeleniumUtils.java) - Waiting for page to load
+2017/02/01 14:55:44.159 [ INFO] main (SeleniumUtils.java) - Page loaded successfully
+2017/02/01 14:55:44.159 [ INFO] main (TestLocalization.java) - Page loaded successfully
+2017/02/01 14:55:44.258 [ INFO] main (SeleniumUtils.java) - Waiting for page to load
+2017/02/01 14:55:47.343 [ INFO] main (SeleniumUtils.java) - Page loaded successfully
+2017/02/01 14:55:47.344 [ INFO] main (TestLocalization.java) - Selected language page loaded successfully
+2017/02/01 14:55:47.790 [ INFO] main (TestLocalization.java) - Clicked on Blog link
+2017/02/01 14:55:47.790 [ INFO] main (SeleniumUtils.java) - Waiting for page to load
+2017/02/01 14:55:51.492 [ INFO] main (SeleniumUtils.java) - Page loaded successfully
+2017/02/01 14:55:54.246 [ INFO] main (TestLocalization.java) - Clicked on Announcement image
+2017/02/01 14:55:54.247 [ INFO] main (SeleniumUtils.java) - Waiting for page to load
+2017/02/01 14:55:56.252 [ INFO] main (SeleniumUtils.java) - Page loaded successfully
+2017/02/01 14:55:56.375 [ INFO] main (TestLocalization.java) - Clicked on WPML link
+2017/02/01 14:55:57.771 [ INFO] main (SeleniumUtils.java) - Waiting for page to load
+2017/02/01 14:55:59.777 [ INFO] main (SeleniumUtils.java) - Page loaded successfully
+2017/02/01 14:55:59.778 [ INFO] main (TestLocalization.java) - ******Test Blogs Test Case passed*****
+2017/02/01 14:56:00.702 [ INFO] main (Config.java) - Execution completed
+2017/02/01 14:56:01.951 [ INFO] main (Config.java) - Driver closed successfully
+2017/02/13 16:28:14.076 [ INFO] main (Config.java) - logger configuration successful.
+2017/02/13 16:28:14.080 [ INFO] main (StartTest.java) - Starting Script Execution.
+2017/02/13 16:28:14.080 [ INFO] main (StartTest.java) - Getting Test cases set for execution
+2017/02/13 16:28:14.080 [ INFO] main (Config.java) - Setting report properties
+2017/02/13 16:28:14.081 [ INFO] main (Config.java) - Report Properties set..
+2017/02/13 16:28:14.082 [ INFO] main (GetData.java) - Reading Excel file C:\ProjectWorkspace\Localization\config\SetTestCases.xlsx With Sheet Name TestCases
+2017/02/13 16:28:15.242 [ INFO] main (GetData.java) - No of rows with 'Yes' Option=1
+2017/02/13 16:28:15.242 [ INFO] main (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\config\Test_Configuration.properties
+2017/02/13 16:28:15.333 [ INFO] main (Config.java) - Execution XML file updated successfully...
+2017/02/13 16:28:15.394 [ INFO] main (StartTest.java) - Sequential execution mode is set
+2017/02/13 16:28:19.135 [ INFO] main (Config.java) - Driver initialization successful
+2017/02/13 16:28:19.455 [ INFO] main (GetData.java) - Reading Excel file C:\ProjectWorkspace\Localization\config\TestData.xlsx With Sheet Name testBlogs
+2017/02/13 16:28:19.496 [ INFO] main (GetData.java) - No of rows with 'Yes' Option=1
+2017/02/13 16:28:19.553 [ INFO] main (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\Locators\Japanese\Japanese.properties
+2017/02/13 16:28:19.555 [ INFO] main (Config.java) - Locators loaded successfully for japanese language
+2017/02/13 16:28:19.555 [ INFO] main (TestLocalization.java) - Language set for testing is :-japanese
+2017/02/13 16:28:32.740 [ INFO] main (SeleniumUtils.java) - Waiting for page to load
+2017/02/13 16:28:34.775 [ INFO] main (SeleniumUtils.java) - Page loaded successfully
+2017/02/13 16:28:34.776 [ INFO] main (TestLocalization.java) - Page loaded successfully
+2017/04/20 12:18:57.247 [ INFO] main (Config.java) - logger configuration successful.
+2017/04/20 12:18:57.251 [ INFO] main (StartTest.java) - Starting Script Execution.
+2017/04/20 12:18:57.251 [ INFO] main (StartTest.java) - Getting Test cases set for execution
+2017/04/20 12:18:57.251 [ INFO] main (Config.java) - Setting report properties
+2017/04/20 12:18:57.252 [ INFO] main (Config.java) - Report Properties set..
+2017/04/20 12:18:57.253 [ INFO] main (GetData.java) - Reading Excel file C:\ProjectWorkspace\Localization\config\SetTestCases.xlsx With Sheet Name TestCases
+2017/04/20 12:18:58.086 [ INFO] main (GetData.java) - No of rows with 'Yes' Option=1
+2017/04/20 12:18:58.086 [ INFO] main (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\config\Test_Configuration.properties
+2017/04/20 12:18:58.154 [ INFO] main (Config.java) - Execution XML file updated successfully...
+2017/04/20 12:18:58.203 [ INFO] main (StartTest.java) - Parallel execution mode is set
+2017/04/20 12:19:01.700 [ INFO] main (Config.java) - Driver initialization successful
+2017/04/20 12:19:04.105 [ INFO] main (Config.java) - Driver initialization successful
+2017/04/20 12:19:04.359 [ INFO] TestNG (GetData.java) - Reading Excel file C:\ProjectWorkspace\Localization\config\TestData.xlsx With Sheet Name testBlogs
+2017/04/20 12:19:04.359 [ INFO] TestNG (GetData.java) - Reading Excel file C:\ProjectWorkspace\Localization\config\TestData.xlsx With Sheet Name testBlogs
+2017/04/20 12:19:04.405 [ INFO] TestNG (GetData.java) - No of rows with 'Yes' Option=1
+2017/04/20 12:19:04.419 [ INFO] TestNG (GetData.java) - No of rows with 'Yes' Option=1
+2017/04/20 12:19:04.455 [ INFO] TestNG (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\Locators\Japanese\Japanese.properties
+2017/04/20 12:19:04.457 [ INFO] TestNG (Config.java) - Locators loaded successfully for japanese language
+2017/04/20 12:19:04.457 [ INFO] TestNG (TestLocalization.java) - Language set for testing is :-japanese
+2017/04/20 12:19:33.797 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/04/20 12:19:33.832 [ INFO] TestNG (GetData.java) - Reading Properties file C:\ProjectWorkspace\Localization\Locators\Japanese\Japanese.properties
+2017/04/20 12:19:33.833 [ INFO] TestNG (Config.java) - Locators loaded successfully for japanese language
+2017/04/20 12:19:33.834 [ INFO] TestNG (TestLocalization.java) - Language set for testing is :-japanese
+2017/04/20 12:19:35.837 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/04/20 12:19:35.837 [ INFO] TestNG (TestLocalization.java) - Page loaded successfully
+2017/04/20 12:19:35.982 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/04/20 12:19:45.077 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/04/20 12:19:47.100 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/04/20 12:19:47.101 [ INFO] TestNG (TestLocalization.java) - Page loaded successfully
+2017/04/20 12:19:47.305 [ INFO] TestNG (SeleniumUtils.java) - Waiting for page to load
+2017/04/20 12:19:59.119 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/04/20 12:19:59.119 [ INFO] TestNG (TestLocalization.java) - Selected language page loaded successfully
+2017/04/20 12:19:59.202 [ INFO] TestNG (SeleniumUtils.java) - Page loaded successfully
+2017/04/20 12:19:59.203 [ INFO] TestNG (TestLocalization.java) - Selected language page loaded successfully
+2017/04/20 12:20:00.965 [ INFO] main (Config.java) - Execution completed
+2017/04/20 12:20:02.429 [ INFO] main (Config.java) - Driver closed successfully
